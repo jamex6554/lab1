@@ -1,0 +1,13 @@
+Script started on 2015年03月17日 (週二) 10時34分07秒
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ whoami;pwd
+F74036417
+/home/F74036417
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ git config-1[K l[1@ [C[C[C[K[Kl
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ git clone http;[K://s://[C[C[Cgithub.com/F[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/jamex6554/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ CAT [K[K[K[Kcat lab1.script
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ mv lab1.script lav1[K[K[Kab1
+]0;F74036417@2015cpp: ~F74036417@2015cpp:~$ exit
+
+Script done on 2015年03月17日 (週二) 10時39分35秒
